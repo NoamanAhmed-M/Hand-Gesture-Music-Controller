@@ -1,4 +1,4 @@
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.11** *(tested and compatible)*
 - **OpenCV** – for video capture and image processing
@@ -7,7 +7,7 @@
 - **Pyttsx3** (optional) – for text-to-speech voice feedback
 FFmpeg should be installed also ! 
 
-## 📦 Required Libraries
+## Required Libraries
 
 Make sure you're using **Python 3.11**, as the code may not run correctly on newer versions due to MediaPipe compatibility issues.
 
